@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2? family= Roboto:wght@500 & display=swap");
+@import url("normalize.css");
+body {
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+.box {
+  margin: 0 auto;
+  background-color: white;
+  width: 100%;
+}
+
+.top_menu {
+  background-color: #007765;
+  width: 100%;
+  position: fixed;
+  height: 84px;
+}
+.shapka {
+  padding-top: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  width: 184px;
+  height: 45px;
+}
+.text_menu {
+  font-family: "Roboto";
+  font-size: 24px;
+  line-height: 28px;
+  align-items: center;
+  display: flex;
+  color: rgb(255, 255, 255);
+}
+.high {
+  padding: 5px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.section_1 {
+  background-image: url(../css/img/bg.png);
+  height: 403px;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg {
+  font-family: "Roboto", sans-serif;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 200px;
+}
+.section_2 {
+  max-height: 719px;
+  background: #eeeeee;
+  padding: 20px;
+}
+.problem {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  color: #007765;
+  text-align: center;
+}
+.text_2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+.section_3 {
+  background-image: url(../css/img/bg2.png);
+  height: 483px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text_3 {
+  margin-left: 559px;
+  margin-right: 559px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #ffffff;
+  align-items: center;
+  padding-top: 128px;
+}
+.coin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+.post {
+  margin-left: 450px;
+  margin-right: 450px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+  align-items: center;
+}
+.logo_3 {
+  max-width: 115px;
+  max-height: 115px;
+  padding: 0 48px 0 0;
+}
+.logo_2 {
+  display: flex;
+}
+.section_5 {
+  background-color: #eeeeee;
+  max-height: 845px;
+  max-width: 100%;
+}
+.team {
+  padding-top: 58px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+.party {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 100px;
+  align-items: center;
+  margin-left: 542px;
+  margin-right: 542px;
+  text-align: center;
+  padding-bottom: 85px;
+}
+.photo {
+  max-width: 168px;
+  max-height: 168px;
+}
+.name {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+}
+.work {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+.section_6 {
+  height: 176px;
+  background-color: #333333;
+  align-items: center;
+}
+.last_text {
+  padding-top: 50px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 736px;
+  margin-right: 735px;
+}
